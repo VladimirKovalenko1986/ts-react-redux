@@ -1,0 +1,21 @@
+.conteiner {
+  display: flex;
+  width: 100%;
+  margin-bottom: 20px;
+  gap: 40px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid black;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+  border: 1px solid black;
+  width: 300px;
+}

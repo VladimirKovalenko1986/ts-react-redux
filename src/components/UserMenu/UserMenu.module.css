@@ -1,0 +1,23 @@
+.conteiner {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.text {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.button {
+  font-size: 18px;
+  padding: 5px 8px;
+  border-radius: 5px;
+  width: 100px;
+  color: white;
+  background-color: blue;
+  border: 1px solid blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

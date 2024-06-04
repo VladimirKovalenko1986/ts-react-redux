@@ -1,0 +1,31 @@
+.conteinerModal {
+  width: 400px;
+  height: 500px;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  margin-right: 5px;
+}
+
+.btnClose {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1px solid black;
+  position: absolute;
+  right: 3px;
+  top: 3px;
+}

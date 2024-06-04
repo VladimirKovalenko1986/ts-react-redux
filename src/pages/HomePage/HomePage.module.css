@@ -1,0 +1,9 @@
+.conteiner {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.text {
+  font-size: 24px;
+}
